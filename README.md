@@ -27,7 +27,7 @@ static multi-page website with basic interactivity.
 - JavaScript
 
 ## Project Structure
-
+```text
 WT-College-Project/
 │
 ├── index.html
@@ -42,7 +42,7 @@ WT-College-Project/
 │
 └── images/
 └── (project images)
-
+``` 
 
 ## How to Run the Project
 1. Download or clone the repository

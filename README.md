@@ -42,7 +42,19 @@ WT-College-Project/
 │
 └── images/
 └── (project images)
-``` 
+```
+
+## Project Screenshots
+
+### Home / Biodata Page
+![Home Page](screenshots/home.png)
+
+### Gallery Page
+![Gallery Page](screenshots/gallery.png)
+
+### Calculator Page
+![Calculator Page](screenshots/calculator.png)
+
 
 ## How to Run the Project
 1. Download or clone the repository
